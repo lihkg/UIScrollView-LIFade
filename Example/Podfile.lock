@@ -1,0 +1,16 @@
+PODS:
+  - UIScrollView-LIFade (1.0.0)
+
+DEPENDENCIES:
+  - UIScrollView-LIFade (from `../`)
+
+EXTERNAL SOURCES:
+  UIScrollView-LIFade:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIScrollView-LIFade: c96f4dcde4ca45a26c2dc4994375331fe8ee8627
+
+PODFILE CHECKSUM: a09aa19bb731154395b26d090138ad370d381b15
+
+COCOAPODS: 1.5.3

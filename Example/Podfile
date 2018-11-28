@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UIScrollView-LIFade_Example' do
+  pod 'UIScrollView-LIFade', :path => '../'
+
+  target 'UIScrollView-LIFade_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
